@@ -1,4 +1,4 @@
-ENTRY = "My alarm rang at 6 AM on a Saturday, cheerful as a coworker who doesn't know the office burned down."
+ENTRY = "My alarm rang at 6 AM Saturday, chirpy as a coworker who doesn't know the office burned down."
 
 assert 1 <= len(ENTRY) <= 200
 
